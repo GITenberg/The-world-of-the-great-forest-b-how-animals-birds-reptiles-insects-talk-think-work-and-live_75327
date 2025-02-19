@@ -1,0 +1,45 @@
+_repo: The-world-of-the-great-forest-b-how-animals-birds-reptiles-insects-talk-think-work-and-live_75327
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Gleeson, J.M.
+    gutenberg_agent_id: '57950'
+    url: http://www.gutenberg.org/2009/agents/57950
+  - agent_name: Knight, C.R.
+    gutenberg_agent_id: '57949'
+    url: http://www.gutenberg.org/2009/agents/57949
+creator:
+  author:
+    agent_name: Du Chaillu, Paul B. (Paul Belloni)
+    aliases:
+    - Chaillu, Paul Du
+    - Chaillu, Paul B. du (Paul Belloni)
+    - Belloni du Chaillu, Paul
+    - Chaillu, P. B. du (Paul Belloni)
+    - Chaillu, Paul Belloni Du
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '25508'
+    url: http://www.gutenberg.org/2009/agents/25508
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Du_Chaillu
+description: ''
+gutenberg_issued: '2025-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75327'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/102287924
+pgterms:marc905: 20240217112430duchaillu
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bC. Scribner''s Sons, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The world of the great forest : $b how animals, birds, reptiles, insects talk,
+  think, work, and live'
+url: http://www.gutenberg.org/ebooks/75327
